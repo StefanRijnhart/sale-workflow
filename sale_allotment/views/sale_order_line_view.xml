@@ -14,7 +14,7 @@
                         <attribute name="context">
                             {
                                 'default_parent_id': parent.partner_id,
-                                'default_use_parent_address': True,
+                                'default_use_parent_address': False,
                                 'default_type':'other',
                             }
                         </attribute>
